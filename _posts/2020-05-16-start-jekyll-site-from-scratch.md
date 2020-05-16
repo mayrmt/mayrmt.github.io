@@ -48,3 +48,6 @@ Once you're ready to publish the site, just push it to GitHub via:
 1. Push your local repository to GitHub.
 
 Now, you can view your published site at `https://<GitHubUserName>.github.io`.
+It might take a minute or two for jekyll to actually generate your site, so be patient.
+The results will be worth it!
+
