@@ -41,7 +41,8 @@ The jekyll setup is now finished and you can start do develop your site.
 To preview the site on your local machine, run `bundle exec jekyll serve` and use a brownser to navigate to the `Server address:`,
 that has been printed in the terminal.
 
-Once you're ready to publish the site, just push it to GitHub via:
+As your site is wrapped into a regular `git` repository, remember to commit your changes.
+Once you're ready to publish the site, commit everything and push to GitHub via:
 
 1. Create a repository with the name `<GitHubUserName>.github.io` on GitHub.
 1. Set the new repository as remote on your local repository.
