@@ -4,7 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-# Peer-reviewed Papers in International Journals
+For some publication statistics, please see my author profile on
+- [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=56533415400&zone=)
+- [Google Scholar](https://scholar.google.de/citations?user=-U3wAecAAAAJ&hl=de)
+- [Orcid](https://orcid.org/0000-0002-2780-1233)
+
+# Articles in Peer-Reviewed International Journals
 
 - Mayr M, Noll MH, Gee MW:
 **A hybrid interface preconditioner for monolithic fluid-structure interaction solvers**,
