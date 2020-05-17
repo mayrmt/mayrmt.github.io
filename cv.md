@@ -37,7 +37,7 @@ permalink: /cv/
     - Final examination: grade 1.3 (GPA 3.7/4.0), ranked no. 8 out of 400
     - Intermediate examination: grade 1.8 (GPA 3.2/4.0), ranked no. 12 out of 1079
 
-# Awards & Honor
+# Honors & Awards
 
 - **[Robert J. Melosh Medal 2017](https://cee.duke.edu/about/awards-honors/melosh-medal)**,
 Award for Best Student Paper in Finite Element Analysis entitled "A Finite-Element-Based Monolithic Solver for Fluid-Structure Interaction with a Novel Hybrid Schwarz Preconditioner",

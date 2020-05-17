@@ -16,6 +16,12 @@ Co-organizers:
 John N. Shadid (Sandia Nat'l Labs),
 Haim Waisman (Columbia University),
 Suvranu De (Rensselaer Polytechnic Institute)
+- Young Researchers' Minisymposium on **"Algorithms for coupled multi-physics problems"**
+_GAMM Annual Meeting 2020/2021_,
+Kassel, Germany,
+Co-organizer:
+Alexander Heinlein (University of Cologne)
+\[Selected through a proposal submission competition\]
 - **Computational Contact & Interface Mechanics**,
 _8th GACM Colloquium on Computational Mechanics_,
 Kassel, Germany, Aug. 28 - 30, 2019
