@@ -16,21 +16,27 @@ Yet, some details were missing or confusing (at least to me).
 Here are the steps, that work for me:
 
 1. Navigate to the parent directory, in which you want to create the folder to store the website repository
+
     ```bash
     cd <parentDirectory>
     ```
+
 1. Create an empty `git` repository for the website:
+
     ```bash
     git init <GitHubUserName>.github.io
     ```
+
 1. Create an emtpy jekyll-based site  via `jekyll new .`.
 1. Open the auto-generated Gemfile
     1. Follow the instructions in the Gemfile's comments to use GitHub Pages.
     1. Update the `gem "github-pages"`line so that the line looks like this,
     replacing `<version>` with the current dependency version for `github-pages`.
+
     ```
     gem "github-pages", "~> <version>", group: :jekyll_plugins
     ```
+
     For more information, see [Dependency versions](https://pages.github.com/versions/) on the GitHub Pages site. 
     1. Close the `Gemfile`.
 1. Remove the auto-generated `Gemfile.lock` via `rm Gemfile.lock`.
@@ -51,4 +57,3 @@ Once you're ready to publish the site, commit everything and push to GitHub via:
 Now, you can view your published site at `https://<GitHubUserName>.github.io`.
 It might take a minute or two for jekyll to actually generate your site, so be patient.
 The results will be worth it!
-
