@@ -5,7 +5,6 @@ permalink: /publications/
 ---
 
 This is a complete list of all my publications, reports, and presentations.
-
 For some publication statistics, please see my author profile on
 - [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=56533415400&zone=)
 - [Google Scholar](https://scholar.google.de/citations?user=-U3wAecAAAAJ&hl=de)
