@@ -191,3 +191,70 @@ ICERM at Brown University, Providence, RI, USA, August 31 - September 04, 2015
 **A temporal consistent monolithic approach to fluid-structure interaction enabling single field predictors**,
 _5th GACM Colloquium on Computational Mechanics_,
 Hamburg-Harburg, Germany, September 30 - Oktober 2, 2013
+
+# Other Invited Presentations
+
+- M. Mayr:
+**Introduction to Doxygen**,
+_Technical Group Meeting_,
+Garching, Germany, September 5, 2019
+- M. Mayr:
+**Using Trilinos/MueLu for Scalable Multigrid Preconditioning**,
+_European Trilinos User Group Meeting_,
+ETH Zurich, Switzerland, June 11, 2019
+- M. Mayr:
+**Introduction to Elasticity**,
+_Quantitative Modelling & Analysis Seminar_,
+Sandia National Laboratories, Livermore, CA, July 26, 2017
+- M. Mayr, E. C. Cyr, J. N. Shadid, R. P. Pawlowski, T. M. Wildey, G. Scovazzi, X. Zeng, E. G. Phillips, S. Conde:
+**Implicit-Explicit (IMEX) Time Integration for CFD & Multi-Physics Problems**,
+_Mechanics & High Performance Computing Group Seminar_,
+Garching, Germany, June 9, 2017
+- M. Mayr, M. W. Gee:
+**A Finite-Element-Based Monolithic Solver for Fluid-Structure Interaction with a Novel Hybrid Schwarz Preconditioner**,
+_Quantitative Modelling & Analysis Seminar_,
+Sandia National Laboratories, Livermore, CA, May 23, 2017
+- M. Mayr:
+**A Finite-Element-Based Monolithic Solver for Fluid-Structure Interaction with a Novel Hybrid Schwarz Preconditioner**,
+_Robert J. Melosh Competition_,
+Duke University, Durham, NC, April 28, 2017
+- M. Mayr:
+**ALE-based monolithic FSI in Baci: Implementation and technical details**,
+_Computational Mechanics Group Meeting_,
+Garching, Germany, January 17, 2017
+- M. Mayr:
+**A Monolithic Solver for Fluid-Structure Interaction with Adaptive Time Stepping and a Hybrid preconditioner**,
+_Mechanics \& High Performance Computing Group Seminar_,
+Garching, Germany, December 15, 2016
+- M. Mayr:
+**Monolithic Solvers for Incompressible Fluid-Structure Interaction Problems**,
+_LaCaN Seminar_,
+Laboratori de Calcul Numeric, Universitat Politecnica de Catalunya, Barcelona, Spain, May 9, 2016
+- M. Mayr:
+**Monolithic Solvers for Incompressible Fluid-Structure Interaction Problems**,
+_CCR Seminar_,
+Computational Science Research Institute, Sandia National Laboratories, Albuquerque, NM, USA, April 26, 2016
+- M. Mayr:
+**An Introduction to Modern Code Design for Multi-Physics Applications using Trilinos**,
+_Mechanics \& High Performance Computing Group Seminar_,
+Garching, Germany, October 20, 2015
+- M. Mayr, W. A. Wall, M. W. Gee:
+**Monolithic Solvers for Incompressible Fluid- Structure Interaction Problems**,
+_CCR Seminar_,
+Computational Science Research Institute, Sandia National Laboratories, Albuquerque, NM, USA, October 1, 2015
+- M. Mayr:
+**An adaptive time stepping procedure for monolithic fluid-structure interaction solvers**,
+_Computational Mechanics Group Meeting_,
+Garching, Germany, July 31, 2014
+- M. Mayr:
+**A monolithic FSI scheme enabling non-matching grids, field specific time integrators and predictors**,
+_Computational Mechanics Group Meeting_,
+Garching, Germany, March 12, 2013
+- M. Mayr:
+**Different Sliding Laws on Embedded Interfaces using Lagrange Multipliers, Penalty Method and Nitsche's Method**,
+_Computational Mechanics Group Meeting_,
+Garching, Germany, September 29, 2010
+- M. Mayr:
+**Different Sliding Laws on Embedded Interfaces using Lagrange Multipliers, Penalty Method and Nitsche's Method**,
+_Duke Computational Mechanics Lab Group Meeting_,
+Durham, NC, September 17, 2010
