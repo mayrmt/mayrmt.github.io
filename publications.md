@@ -35,7 +35,7 @@ _Biomechanics and Modeling in Mechanobiology_,
 17(3):617-644, 2018,
 [DOI](https://doi.org/10.1007/s10237-017-0982-7)
 - M. Mayr, T. Klöppel, W. A. Wal, M. Gee:
-**A Temporal Consistent MonolithicApproach to Fluid-Structure Interaction Enabling Single Field Predictors**,
+**A Temporal Consistent Monolithic Approach to Fluid-Structure Interaction Enabling Single Field Predictors**,
 _SIAM Journal on Scientific Computing_,
 37(1):B30-B59, 2015,
 [DOI](http://dx.doi.org/10.1137/140953253),
