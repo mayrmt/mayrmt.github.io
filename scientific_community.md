@@ -4,8 +4,16 @@ title: Scientific Community
 permalink: /scientific_community/
 ---
 
-# Organization of Conferences
+## Reviewer for Journal Publications
 
+I'm happy to serve as a reviewer for the following international journals:
+
+- [Archive of Applied Mechanics](https://www.springer.com/journal/419)
+
+## Organization of Conferences
+
+### Appointments to Scientific Committees
+ 
 I've been appointed to the _Scientific Commitee_ of the following international conferences:
 - IX Conferene on Coupled Problems in Science and Engineering,
 Chia Laguna, Sardinia, Italy, June 13 - 16, 2021
@@ -14,7 +22,7 @@ Stiges/Barcelona, Spain, June 3 - 5, 2019
 - XII Conference on Coupled Problems in Science and Engineering,
 Rhodes Island, Greece, June 12 - 14, 2017
 
-# Organization of Minisymposia
+### Organization of Minisymposia
 
 I regularly co-organize minisymposia at international conferences.
 Here's a complete list:
