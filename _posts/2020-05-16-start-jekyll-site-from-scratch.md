@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start a GitHub Pages site from scratch"
+title:  "Starting a GitHub Pages site from scratch"
 date:   2020-05-16 21:53:12 +0200
 categories: jekyll update
 ---
