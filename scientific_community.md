@@ -42,7 +42,7 @@ Alexander Heinlein (University of Cologne)
 \[Selected through a proposal submission competition\]
 - **Computational Contact & Interface Mechanics**,
 _8th GACM Colloquium on Computational Mechanics_,
-Kassel, Germany, Aug. 28 - 30, 2019
+Kassel, Germany, Aug. 28 - 30, 2019,
 Co-organizers:
 Alexander Popp (University of the Bundeswehr Munich),
 Anton Tkachuk (University of Stuttgart),
