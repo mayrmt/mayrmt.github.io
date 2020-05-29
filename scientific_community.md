@@ -14,7 +14,7 @@ I'm happy to serve as a reviewer for the following international journals:
 
 ### Appointments to Scientific Committees
  
-I've been appointed to the _Scientific Commitee_ of the following international conferences:
+I've been appointed to the Scientific Commitee of the following international conferences:
 - IX Conferene on Coupled Problems in Science and Engineering,
 Chia Laguna, Sardinia, Italy, June 13 - 16, 2021
 - XIII Conference on Coupled Problems in Science and Engineering,
