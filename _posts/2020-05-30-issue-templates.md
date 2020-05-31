@@ -86,6 +86,10 @@ Finally, they speed up acceptance of a PR, so changes are likely to be merged qu
 
 ## Issues
 
-In my experience, the effort of creating *and regularly updating* these templates totally pays off!
+## Summary
 
+Thoughful templates for issues and pull requests can greatly enhance their quality
+and help to improve collaborative code development.
+These templates require time to be designed and maintained,
+but -- at least in my experience -- **this time is very well invested and totally pays off very, very quickly!**
 
