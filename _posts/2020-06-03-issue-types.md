@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Different Types of Issues"
-date:   2020-05-30 17:53:12 +0200
+date:   2020-06-03 17:53:12 +0200
 categories: jekyll update
 ---
 
