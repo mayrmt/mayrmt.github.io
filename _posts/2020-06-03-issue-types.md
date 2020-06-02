@@ -24,7 +24,7 @@ Possible topics are:
 - requesting or proposing a new feature to be implemented to enhance the code's capabilities
 - asking a question about the code and its application
 
-From an organizational point of view, they are also helpful when
+From an organizational point of view, issues are also helpful when
 
 - a new developer is joining the development team ("onboarding process")
 - a developer is leaving the developer team
@@ -81,9 +81,9 @@ They might have some good ideas how to approach this.
 
 Questions can be related to any topic around the project,
 e.g. very detailed algorithmic questions, code design, input, output, configure & build, or what ever.
-The list of possible topics is infinte.
+The list of possible topics is infinite.
 
-It is important, that it is clear, what information is required to answer that questions,
+It is important, that it is clear, what information is required to answer that question,
 meaning it should be formulated as a real question, not just as a comment or remark.
 
 If possible,
