@@ -11,6 +11,18 @@ For some publication statistics, please see my author profile on
 - [Orcid](https://orcid.org/0000-0002-2780-1233)
 - [Researchgate](https://www.researchgate.net/profile/Matthias_Mayr2)
 
+# Preprints and Articles Submitted for Publication
+
+- T. A. Wiesner, M. Mayr, A. Popp, M. W. Gee, W. A. Wall:
+**Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
+submitted for publication,
+[arXiv](https://arxiv.org/abs/1912.09056)
+
+- I. Steinbrecher, M. Mayr, M. J. Grill, J. Kremheller, C. A. Meier, A. Popp:
+**A mortar-type finite element approach for embedding 1D beams into 3D solid volumes**,
+submitted for publication,
+[arXiv](http://arxiv.org/abs/1912.04153)
+
 # Articles in Peer-Reviewed International Journals
 
 - M. Mayr, M. H. Noll, M. W. Gee:
