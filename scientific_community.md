@@ -19,7 +19,7 @@ I've been appointed to the Scientific Commitee of the following international co
 - IX Conferene on Coupled Problems in Science and Engineering,
 Chia Laguna, Sardinia, Italy, June 13 - 16, 2021
 - XIII Conference on Coupled Problems in Science and Engineering,
-Stiges/Barcelona, Spain, June 3 - 5, 2019
+Sitges/Barcelona, Spain, June 3 - 5, 2019
 - XII Conference on Coupled Problems in Science and Engineering,
 Rhodes Island, Greece, June 12 - 14, 2017
 
