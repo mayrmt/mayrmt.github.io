@@ -9,6 +9,7 @@ permalink: /scientific_community/
 I'm happy to serve as a reviewer for the following international journals:
 
 - [Archive of Applied Mechanics](https://www.springer.com/journal/419)
+- [Fluids](https://www.mdpi.com/journal/fluids)
 
 ## Organization of Conferences
 
