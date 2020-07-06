@@ -6,7 +6,7 @@ permalink: /scientific_community/
 
 ## Reviewer for Journal Publications
 
-I'm happy to serve as a reviewer for the following international journals:
+I'm happy to regularly serve as a reviewer for the following international journals:
 
 - [Archive of Applied Mechanics](https://www.springer.com/journal/419)
 - [Fluids](https://www.mdpi.com/journal/fluids)
