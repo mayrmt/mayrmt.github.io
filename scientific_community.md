@@ -10,6 +10,7 @@ I'm happy to serve as a reviewer for the following international journals:
 
 - [Archive of Applied Mechanics](https://www.springer.com/journal/419)
 - [Fluids](https://www.mdpi.com/journal/fluids)
+- [International Journal for Numerical Methods in Biomedical Engineering](https://onlinelibrary.wiley.com/journal/20407947)
 
 ## Organization of Conferences
 
