@@ -95,12 +95,17 @@ Technical University of Munich,
 # International Conference Contributions with Abstract
 
 - M. Mayr, A. Popp:
+**Dynamic load balancing for large-scale mortar contact formulations**,
+_91st GAMM Annual Meeting_,
+Kassel, Germany, March 15 - 19, 2021
+(Invited Presentation)
+- M. Mayr, A. Popp:
 **Multilevel saddle point preconditioners for mortar contact problems**,
 _14th World Congress on Computational Mechanics (WCCM) & ECCOMAS Congress 2020_,
 Paris, France, July 19 - 24, 2020
 (Contributed Presentation) \[Conference has been cancelled.\]
 - M. Mayr, A. Popp:
-**Solving computational contact problems efficiently at large scale**,
+**Dynamic load balancing for large-scale mortar contact formulations**,
 _91st GAMM Annual Meeting_,
 Kassel, Germany, March 16 - 20, 2020
 (Invited Presentation) \[Conference has been postponed to 2021.\]
