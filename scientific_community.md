@@ -29,6 +29,10 @@ Rhodes Island, Greece, June 12 - 14, 2017
 I regularly co-organize minisymposia at international conferences.
 Here's a complete list:
 
+- **Multi-level solvers for large sparse linear systems**,
+_VI ECCOMAS Young Investigators Conference (YIC 2021)_,
+Valencia, Spain, July 7 - 9, 2021,
+Co-organizer: Alexander Heinlein (University of Cologne)
 - **Block Preconditioning for Challenging Multiphysics Systems**,
 _IX Conferene on Coupled Problems in Science and Engineering_,
 Chia Laguna, Sardinia, Italy, June 13 - 16, 2021,
