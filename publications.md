@@ -23,7 +23,8 @@ submitted for publication,
 - I. Steinbrecher, M. Mayr, M. J. Grill, J. Kremheller, C. A. Meier, A. Popp:
 **A mortar-type finite element approach for embedding 1D beams into 3D solid volumes**,
 _Computational Mechanics_,
-accepted for publication,
+published online,
+[DOI (open access)](https://doi.org/10.1007/s00466-020-01907-0),
 [arXiv](http://arxiv.org/abs/1912.04153)
 
 - M. Mayr, M. H. Noll, M. W. Gee:
