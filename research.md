@@ -18,6 +18,7 @@ I'm particularly interested in multi-level block preconditioners for monolithic 
 - Time integration, error estimation, implicit/explicit (IMEX) schemes
 - Numerical methods for PDEs, Finite Element Methods, Mortar methods
 - High Performance Computing, Algorithms for Novel Hardware Architectures
+- Data-driven modelling
 
 # Scientific Software Development
 
