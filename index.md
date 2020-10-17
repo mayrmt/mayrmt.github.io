@@ -5,7 +5,7 @@
 layout: home
 ---
 
-| ![Dr.-Ing. Matthias Mayr](fig/mayr_2016.jpeg) | **Dr.-Ing. Matthias Mayr**<br>Computational Scientist, Lecturer, Developer of Research Software<br><br>***Affiliation:*** [Institute for Mathematics and Computer-based Simulation, University of the Bundeswehr Munich](https://www.unibw.de/imcs-en)<br>***Work website:***: [www.unibw.de/matthias.mayr](http://www.unibw.de/matthias.mayr)<br>***Personal Website:*** [mayrmt.github.io](https://mayrmt.github.io)<br>***Work Email:*** [matthias.mayr@unibw.de](mailto:matthias.mayr@unibw.de) |
+| ![Dr.-Ing. Matthias Mayr](fig/mayr_2016.jpeg) | **Dr.-Ing. Matthias Mayr**<br>Computational Scientist, Lecturer, Developer of Research Software<br><br>***Affiliation:***<br>- [Institute for Mathematics and Computer-based Simulation, University of the Bundeswehr Munich](https://www.unibw.de/imcs-en)<br>- [Data Science & Computing Lab, University of the Bundeswehr Munich](www.unibw.de/imcs-en/dsc-lab)<br><br>***Work website:***: [www.unibw.de/matthias.mayr](http://www.unibw.de/matthias.mayr)<br>***Personal Website:*** [mayrmt.github.io](https://mayrmt.github.io)<br>***Work Email:*** [matthias.mayr@unibw.de](mailto:matthias.mayr@unibw.de) |
 
 [comment]: <> (NOTE: the above single line for the figure and the side text is necessary for the formatting to work.  Any newline breaks this.)
 
