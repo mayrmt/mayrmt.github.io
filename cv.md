@@ -6,8 +6,11 @@ permalink: /cv/
 
 # Professional Experience:
 
+- **University of the Bundeswehr Munich** (since 09/2020)
+    * Head of Laboratory
+    * [Data Science & Computing Lab](www.unibw.de/imcs-en/dsc-lab)
 - **University of the Bundeswehr Munich** (since 07/2018)
-    * Senior Researcher & Lecturer
+    * Postdoctoral Researcher & Lecturer
     * [Institute for Mathematics and Computer-based Simulation](www.unibw.de/imcs-en)
 - **Sandia National Laboratories** (03/2017 - 05/2018)
     * Postdoctoral Appointee
