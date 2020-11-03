@@ -13,6 +13,10 @@ For some publication statistics, please see my author profile on
 
 # Preprints and Articles Submitted for Publication
 
+- M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
+**Non-invasive multigrid for semi-structured grids**,
+submitted for publication
+
 - T. A. Wiesner, M. Mayr, A. Popp, M. W. Gee, W. A. Wall:
 **Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
 submitted for publication,
