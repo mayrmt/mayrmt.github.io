@@ -63,6 +63,19 @@ _SIAM Journal on Scientific Computing_,
 [DOI](http://dx.doi.org/10.1137/140953253),
 [arXiv](https://arxiv.org/abs/1608.05570)
 
+# Conference Proceedings and Book Contributions (with Peer-Review)
+
+- M. Mayr, A. Popp:
+**Dynamic load balancing for large-scale mortar contact formulations**,
+In: _Proceedings in Applied Mathematics and Mechanics_,
+20(1):e202000196, 2021,
+[URL](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202000196)
+
+- N. Hagmeyer, M. Mayr, A. Popp:
+**Fluid-structure interaction of slender continua with 3-dimensional flow: An embedded finite element approach**,
+In: _Proceedings in Applied Mathematics and Mechanics_,
+accepted for publication
+
 # Reports & White Papers
 
 - L. Berger-Vergiat, C. A. Glusa, J. J. Hu, M. Mayr, A. Prokopenko, C. M. Siefert, R. S. Tuminaro, T. A. Wiesner:
