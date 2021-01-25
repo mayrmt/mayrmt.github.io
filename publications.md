@@ -76,6 +76,20 @@ In: _Proceedings in Applied Mathematics and Mechanics_,
 In: _Proceedings in Applied Mathematics and Mechanics_,
 accepted for publication
 
+- M. Mayr, A. Popp:
+**Solving computational contact problems efficiently at large scale**, In: _Proceedings of the 8th GACM Colloquium on Computational Mechanics_,
+T. Gleim, S. Lange (Eds.), Kassel University Press, Germany, 2019
+
+- N. Hagmeyer, M. Mayr, A. Popp:
+**A weak Dirichlet-Neumann partitioned algorithm for 1-dimensional structures embedded in a 3-dimensional fluid**,
+In: _Proceedings of the 8th GACM Colloquium on Computational Mechanics_,
+T. Gleim, S. Lange (Eds.), Kassel University Press, Germany, 2019
+
+- J. Bonari, M. R. Marulli, N. Hagmeyer, M. Mayr, A. Popp , M. Paggi:
+**An interface element formulation for frictionless normal contact between rough surfaces**,
+In: _Proceedings of the 8th GACM Colloquium on Computational Mechanics_,
+T. Gleim, S. Lange (Eds.), Kassel University Press, Germany, 2019
+
 # Reports & White Papers
 
 - L. Berger-Vergiat, C. A. Glusa, J. J. Hu, M. Mayr, A. Prokopenko, C. M. Siefert, R. S. Tuminaro, T. A. Wiesner:
