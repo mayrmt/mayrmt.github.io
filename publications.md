@@ -28,14 +28,14 @@ submitted for publication,
 **A mortar-type finite element approach for embedding 1D beams into 3D solid volumes**,
 _Computational Mechanics_,
 66(6):1377-1398,
-[DOI (open access)](https://doi.org/10.1007/s00466-020-01907-0),
+[DOI (Open Access)](https://doi.org/10.1007/s00466-020-01907-0),
 [arXiv](http://arxiv.org/abs/1912.04153)
 
 1. M. Mayr, M. H. Noll, M. W. Gee:
 **A hybrid interface preconditioner for monolithic fluid-structure interaction solvers**,
 _Advanced Modeling and Simulation in Engineering Sciences_,
 7:15, 2020,
-[DOI (open access)](https://doi.org/10.1186/s40323-020-00150-9)
+[DOI (Open Access)](https://doi.org/10.1186/s40323-020-00150-9)
 
 1. J. Bonari, M. R. Marulli, N. Hagmeyer, M. Mayr, A. Popp, M. Paggi:
 **A multi-scale FEM-BEM formulation for contact mechanics between rough surfaces**,
@@ -65,16 +65,17 @@ _SIAM Journal on Scientific Computing_,
 
 # Conference Proceedings and Book Contributions (with Peer-Review)
 
+1. N. Hagmeyer, M. Mayr, A. Popp:
+**Fluid-structure interaction of slender continua with 3-dimensional flow: An embedded finite element approach**,
+In: _Proceedings in Applied Mathematics and Mechanics_,
+20(1):e202000244, 2021,
+[DOI (Open Access)](https://doi.org/10.1002/pamm.202000244)
+
 1. M. Mayr, A. Popp:
 **Dynamic load balancing for large-scale mortar contact formulations**,
 In: _Proceedings in Applied Mathematics and Mechanics_,
 20(1):e202000196, 2021,
-[URL](https://onlinelibrary.wiley.com/doi/10.1002/pamm.202000196)
-
-1. N. Hagmeyer, M. Mayr, A. Popp:
-**Fluid-structure interaction of slender continua with 3-dimensional flow: An embedded finite element approach**,
-In: _Proceedings in Applied Mathematics and Mechanics_,
-accepted for publication
+[DOI (Open Access)](https://doi.org/10.1002/pamm.202000196)
 
 1. M. Mayr, A. Popp:
 **Solving computational contact problems efficiently at large scale**, In: _Proceedings of the 8th GACM Colloquium on Computational Mechanics_,
