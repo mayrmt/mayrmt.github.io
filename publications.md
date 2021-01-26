@@ -127,6 +127,12 @@ Technical University of Munich,
 
 # International Conference Contributions with Abstract
 
+1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
+**Reducing Communication in Algebraic Multigrid Methods for Partially Structured Grids**,
+_VI ECCOMAS Young Investigators Conference (YIC2021)_,
+Valencia, Spain, July 7 - 9, 2021
+(Invited Presentation)
+
 1. M. Mayr, A. Popp:
 **Dynamic load balancing for large-scale mortar contact formulations**,
 _91st GAMM Annual Meeting_,
