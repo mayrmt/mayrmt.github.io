@@ -113,6 +113,11 @@ Duke University & Technical University of Munich, 2010
 1. M. Mayr:
 **Modelling of Uncertainty and Data**,
 University of the Bundeswehr Munich,
+2nd edition, 2021
+
+1. M. Mayr:
+**Modelling of Uncertainty and Data**,
+University of the Bundeswehr Munich,
 1st edition, 2020
 
 1. M. Mayr, M. W. Gee:
