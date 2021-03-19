@@ -145,8 +145,8 @@ Kassel, Germany, March 15 - 19, 2021
 1. M. Mayr, A. Popp:
 **Multilevel saddle point preconditioners for mortar contact problems**,
 _14th World Congress on Computational Mechanics (WCCM) & ECCOMAS Congress 2020_,
-Paris, France, July 19 - 24, 2020
-(Contributed Presentation) \[Conference has been cancelled.\]
+Paris, France, January 11 - 25, 2021, [Video](https://slideslive.com/38945336)
+(Contributed Presentation) \[Virtual Conference\]
 1. M. Mayr, A. Popp:
 **Dynamic load balancing for large-scale mortar contact formulations**,
 _91st GAMM Annual Meeting_,
@@ -260,6 +260,10 @@ Hamburg-Harburg, Germany, September 30 - Oktober 2, 2013
 
 # Other Invited Presentations
 
+1. M. Mayr:
+**Iterative solvers and preconditioners for linear systems**,
+_IMCS Seminar_,
+Munich, Germany, May 21, 2021
 1. M. Mayr, T. A. Wiesner, A. Popp:
 **Multilevel block preconditioners for mortar contact problems in saddle-point formulation**,
 _GAMM CSE Workshop_,
