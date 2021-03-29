@@ -18,13 +18,13 @@ For some publication statistics, please see my author profile on
 submitted for publication,
 [arXiv](https://arxiv.org/abs/2103.11962)
 
-1. T. A. Wiesner, M. Mayr, A. Popp, M. W. Gee, W. A. Wall:
-**Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
-submitted for publication,
-[arXiv](https://arxiv.org/abs/1912.09056)
-
 # Articles in Peer-Reviewed International Journals
 
+1. T. A. Wiesner, M. Mayr, A. Popp, M. W. Gee, W. A. Wall:
+**Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
+_International Journal for Numerical Methods in Engineering_,
+accepted for publication,
+[arXiv](https://arxiv.org/abs/1912.09056)
 1. I. Steinbrecher, M. Mayr, M. J. Grill, J. Kremheller, C. A. Meier, A. Popp:
 **A mortar-type finite element approach for embedding 1D beams into 3D solid volumes**,
 _Computational Mechanics_,
