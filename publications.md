@@ -27,6 +27,7 @@ submitted for publication,
 **Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
 _International Journal for Numerical Methods in Engineering_,
 accepted for publication,
+[DOI (Open Access)](https://doi.org/10.1002/nme.6680),
 [arXiv](https://arxiv.org/abs/1912.09056)
 1. I. Steinbrecher, M. Mayr, M. J. Grill, J. Kremheller, C. A. Meier, A. Popp:
 **A mortar-type finite element approach for embedding 1D beams into 3D solid volumes**,
