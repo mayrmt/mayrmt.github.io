@@ -15,7 +15,8 @@ For some publication statistics, please see my author profile on
 
 1. N. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
 **Fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
-submitted for publication
+submitted for publication,
+[arXiv](http://arxiv.org/abs/2104.09844)
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Non-invasive multigrid for semi-structured grids**,
 submitted for publication,
