@@ -24,7 +24,7 @@ I'm particularly interested in multi-level block preconditioners for monolithic 
 
 I'm an active contributor to several multiphysics codes and HPC math algorithm libraries:
 
-- [Baci](https://baci.pages.gitlab.lrz.de/website): in-house multiphysics code (in collaboration with [LnM@TUM](www.lnm.mw.tum.de), [IMCS@UniBwM](www.unibw.de/imcs-en), and [HZG](https://www.hzg.de/institutes_platforms/materials_research/materials_mechanics/simulation/index.php.de))
+- [Baci](https://baci.pages.gitlab.lrz.de/website): in-house multiphysics code (in collaboration with [LnM@TUM](www.lnm.mw.tum.de), [IMCS@UniBwM](www.unibw.de/imcs-en), and [HZG](https://www.hereon.de/institutes/material_systems_modeling/index.php.de))
 - Drekar: in-house multi-fluid plasma code (Sandia National Laboratories)
 - [Trilinos](https://trilinos.github.io): open-source project for algorithms for large-scale multiphsyics applications
 - [MueLu](https://trilinos.github.io/muelu.html): next-generation multigrid framework within Trilinos
