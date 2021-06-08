@@ -29,6 +29,7 @@ I'm an active contributor to several multiphysics codes and HPC math algorithm l
 - [Trilinos](https://trilinos.github.io): open-source project for algorithms for large-scale multiphsyics applications
 - [MueLu](https://trilinos.github.io/muelu.html): next-generation multigrid framework within Trilinos
 - [Spack](https://spack.io/): flexible package manager for HPC
+- [TriBITS](http://tribits.org): software development, testing, and deployment system based on CMake
 
 Find an overview of my open-source contributions and activities on my [GitHub profile](https://github.com/mayrmt).
 
