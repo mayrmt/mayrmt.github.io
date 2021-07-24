@@ -27,7 +27,7 @@ submitted for publication,
 1. T. A. Wiesner, M. Mayr, A. Popp, M. W. Gee, W. A. Wall:
 **Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
 _International Journal for Numerical Methods in Engineering_,
-accepted for publication,
+122(15):3749-3779,
 [DOI (Open Access)](https://doi.org/10.1002/nme.6680),
 [arXiv](https://arxiv.org/abs/1912.09056)
 1. I. Steinbrecher, M. Mayr, M. J. Grill, J. Kremheller, C. A. Meier, A. Popp:
