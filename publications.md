@@ -13,6 +13,9 @@ For some publication statistics, please see my author profile on
 
 # Preprints and Articles Submitted for Publication
 
+1. M. Mayr, A. Popp:
+**Scalable computational kernels for mortar finite element methods**,
+submitted for publication
 1. N. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
 **Fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
 submitted for publication,
