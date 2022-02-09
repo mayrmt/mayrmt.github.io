@@ -109,6 +109,13 @@ Duke University & Technical University of Munich, 2010
 
 # Lecture Notes
 
+1. M. Mayr, M. von Danwitz:
+**Modelling of Uncertainty and Data**,
+University of the Bundeswehr Munich,
+3rd edition, 2022
+1. M. Mayr:
+**Introduction to Finite Element Methods (FEM)**,
+5th edition, 2022
 1. M. Mayr:
 **Modelling of Uncertainty and Data**,
 University of the Bundeswehr Munich,
