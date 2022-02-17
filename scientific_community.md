@@ -42,6 +42,10 @@ Haim Waisman (Columbia University)
 _15th World Congress on Computational Mechanics (WCCM 2022)_ & _8th Asian Pacific Congress on Computational Mechanics (APCOM 2022)_,
 Yokohama, Japan, July 31 - August 5, 2022,
 Co-organizer: Martin Kronbichler (Uppsala University), Santiago Badia (Monash University)
+- **Block preconditioning for challenging multiphysics systems**,
+_8th European Congress on Computational Methods in Applied Sciences and Engineering_,
+Oslo, Norway, June 5 - 9, 2022,
+Co-organizer: John N. Shadid (Sandia Nat'l Labs), Peter Ohm (Sandia Nat'l Labs)
 - **Multi-level solvers for large sparse linear systems**,
 _VI ECCOMAS Young Investigators Conference (YIC 2021)_,
 Valencia, Spain, July 7 - 9, 2021,
