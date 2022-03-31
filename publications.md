@@ -139,13 +139,17 @@ Technical University of Munich,
 
 # International Conference Contributions with Abstract
 
+1. Mayr M, Steimer C, Popp A:
+**Dynamic load balancing for contact mechanics at large scale**,
+_15th World Congress on Computational Mechanics (WCCM 2022)& 8th Asian Pacific Congress on Computational Mechanics (APCOM 2022)_,
+Yokohama, Japan, July 31 - August 5, 2022
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Reducing Communication in Algebraic Multigrid Methods for Partially Structured Grids**,
 _VI ECCOMAS Young Investigators Conference (YIC2021)_,
 Valencia, Spain, July 7 - 9, 2021
 (Invited Presentation) \[Virtual Conference\]
 1. M. Mayr, T. A. Wiesner, A. Popp:
-**Multilevel block preconditioning for mortar contact formulations**.
+**Multilevel block preconditioning for mortar contact formulations**,
 _9th International Conference on Coupled Problems in Science and Engineering_,
 Chia Laguna/Sardinia, Italy, June 13 - 16, 2021
 (Invited Presentation) \[Virtual Conference\]
