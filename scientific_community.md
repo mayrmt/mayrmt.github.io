@@ -14,6 +14,11 @@ I'm happy to regularly serve as a reviewer for the following international journ
 - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
 - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics/)
 - [Springer Nature Applied Sciences](https://www.springer.com/journal/42452)
+- [The Journal of Open Source Software](https://joss.theoj.org)
+
+I also review for these funding agencies:
+
+- [Deutsche Forschungsgemeinschaft (DFG)](https://www.dfg.de)
 
 ## Organization of Conferences
 
