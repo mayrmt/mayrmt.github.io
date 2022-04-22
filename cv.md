@@ -6,11 +6,8 @@ permalink: /cv/
 
 # Professional Experience:
 
-- **University of the Bundeswehr Munich** (04/2022 - Present)
+- **University of the Bundeswehr Munich** (09/2020 - Present)
     * Head of Laboratory
-    * [Data Science & Computing Lab](www.unibw.de/imcs-en/dsc-lab)
-- **University of the Bundeswehr Munich** (09/2020 - 03/2022)
-    * Head of Laboratory (provisional)
     * [Data Science & Computing Lab](www.unibw.de/imcs-en/dsc-lab)
 - **University of the Bundeswehr Munich** (07/2018 - 08/2020)
     * Postdoctoral Researcher & Lecturer
