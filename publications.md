@@ -17,13 +17,14 @@ For some publication statistics, please see my author profile on
 **Scalable computational kernels for mortar finite element methods**,
 submitted for publication,
 [arXiv](http://arxiv.org/abs/2202.03933)
-1. N. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
-**One-way coupled fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
-submitted for publication,
-[arXiv](http://arxiv.org/abs/2104.09844)
 
 # Articles in Peer-Reviewed International Journals
 
+1. M. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
+**One-way coupled fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
+_Advanced Modeling and Simulation in Engineering Sciences_,
+accepted for publication,
+[arXiv](https://arxiv.org/abs/2104.09844)
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Non-invasive multigrid for semi-structured grids**,
 _SIAM Journal on Scientific Computing_,
