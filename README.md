@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/mayrmt/mayrmt.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/mayrmt/mayrmt.github.io/actions/workflows/pages/pages-build-deployment)
+
 This is the GitHub repositpry for my personal website hosted at
 https://mayrmt.github.io.
 
