@@ -142,7 +142,10 @@ Technical University of Munich,
 
 # International Conference Contributions with Abstract
 
-
+1. Hagmeyer N, Mayr M, Popp A:
+**Two-way coupling of slender beams with incompressible fluid flow**,
+_9th GACM Colloqium on Computational Mechanics 2022_,
+Essen, Germany, September 21 - 23, 2022
 1. Mayr M, Berger-Vergiat L, Ohm P, Tuminaro RS:
 **An algebraic multigrid method for partially structured grids**,
 _92nd Annual Meeting of the International Association of Applied Mathematics and Mechanics_,
