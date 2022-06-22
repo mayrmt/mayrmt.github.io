@@ -40,9 +40,10 @@ Here's a complete list:
 - **Iterative Methods and Preconditioners for Challenging Multiphysics Systems**,
 _X Conferene on Coupled Problems in Science and Engineering_,
 Chania, Crete, Greece, June 5-7, 2023
-Co-organizer: Suvranu De (Rensselaer Polytechnic Institute),
+Co-organizer:
 John Shadid (Sandia Nat'l Labs),
-Haim Waisman (Columbia University)
+Haim Waisman (Columbia University),
+Suvranu De (Rensselaer Polytechnic Institute)
 - **Multi-level iterative solvers for finite element systems**,
 _15th World Congress on Computational Mechanics (WCCM 2022)_ & _8th Asian Pacific Congress on Computational Mechanics (APCOM 2022)_,
 Yokohama, Japan, July 31 - August 5, 2022,
