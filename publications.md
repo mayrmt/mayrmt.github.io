@@ -142,6 +142,11 @@ Technical University of Munich,
 
 # International Conference Contributions with Abstract
 
+
+1. Mayr M, Berger-Vergiat L, Ohm P, Tuminaro RS:
+**An algebraic multigrid method for partially structured grids**,
+_92nd Annual Meeting of the International Association of Applied Mathematics and Mechanics_,
+Aachen, Germany, August 15 - 19, 2022
 1. Mayr M, Steimer C, Popp A:
 **Dynamic load balancing for contact mechanics at large scale**,
 _15th World Congress on Computational Mechanics (WCCM 2022)& 8th Asian Pacific Congress on Computational Mechanics (APCOM 2022)_,
