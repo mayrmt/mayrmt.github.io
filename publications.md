@@ -20,16 +20,17 @@ submitted for publication,
 
 # Articles in Peer-Reviewed International Journals
 
-1. M. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
-**One-way coupled fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
-_Advanced Modeling and Simulation in Engineering Sciences_,
-accepted for publication,
-[arXiv](https://arxiv.org/abs/2104.09844)
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Non-invasive multigrid for semi-structured grids**,
 _SIAM Journal on Scientific Computing_,
 accepted for publication,
 [arXiv](https://arxiv.org/abs/2103.11962)
+1. N. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
+**One-way coupled fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
+_Advanced Modeling and Simulation in Engineering Sciences_,
+9:9, 2022,
+[DOI (Open Access)](https://doi.org/10.1186/s40323-022-00222-y),
+[arXiv](https://arxiv.org/abs/2104.09844)
 1. T. A. Wiesner, M. Mayr, A. Popp, M. W. Gee, W. A. Wall:
 **Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
 _International Journal for Numerical Methods in Engineering_,
@@ -141,6 +142,16 @@ Technical University of Munich,
 
 # International Conference Contributions with Abstract
 
+> This list only includes talks that I have given myself. Co-authored talks presented by collaborators are not listed here.
+
+1. Hagmeyer N, Mayr M, Popp A:
+**Two-way coupling of slender beams with incompressible fluid flow**,
+_9th GACM Colloqium on Computational Mechanics 2022_,
+Essen, Germany, September 21 - 23, 2022
+1. Mayr M, Berger-Vergiat L, Ohm P, Tuminaro RS:
+**An algebraic multigrid method for partially structured grids**,
+_92nd Annual Meeting of the International Association of Applied Mathematics and Mechanics_,
+Aachen, Germany, August 15 - 19, 2022
 1. Mayr M, Steimer C, Popp A:
 **Dynamic load balancing for contact mechanics at large scale**,
 _15th World Congress on Computational Mechanics (WCCM 2022)& 8th Asian Pacific Congress on Computational Mechanics (APCOM 2022)_,
