@@ -142,6 +142,8 @@ Technical University of Munich,
 
 # International Conference Contributions with Abstract
 
+> This list only includes talks that I have given myself. Co-authored talks presented by collaborators are not listed here.
+
 1. Hagmeyer N, Mayr M, Popp A:
 **Two-way coupling of slender beams with incompressible fluid flow**,
 _9th GACM Colloqium on Computational Mechanics 2022_,
