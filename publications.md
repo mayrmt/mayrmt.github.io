@@ -20,16 +20,17 @@ submitted for publication,
 
 # Articles in Peer-Reviewed International Journals
 
-1. M. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
-**One-way coupled fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
-_Advanced Modeling and Simulation in Engineering Sciences_,
-accepted for publication,
-[arXiv](https://arxiv.org/abs/2104.09844)
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Non-invasive multigrid for semi-structured grids**,
 _SIAM Journal on Scientific Computing_,
 accepted for publication,
 [arXiv](https://arxiv.org/abs/2103.11962)
+1. N. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
+**One-way coupled fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
+_Advanced Modeling and Simulation in Engineering Sciences_,
+9:9, 2022,
+[DOI (Open Access)](https://doi.org/10.1186/s40323-022-00222-y),
+[arXiv](https://arxiv.org/abs/2104.09844)
 1. T. A. Wiesner, M. Mayr, A. Popp, M. W. Gee, W. A. Wall:
 **Algebraic multigrid methods for saddle point systems arising from mortar contact formulations**,
 _International Journal for Numerical Methods in Engineering_,
