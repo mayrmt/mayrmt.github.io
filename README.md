@@ -14,3 +14,4 @@ $ bundle exec jekyll serve
 
 inside of the base git repository directory.
 Then, the site can be viewed in your local browser at the address given in the terminal.
+
