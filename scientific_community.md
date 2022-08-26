@@ -22,6 +22,11 @@ I also review for these funding agencies:
 
 ## Organization of Conferences
 
+### Scientific Events
+
+I'm one of the main organizers of the [European Trilinos User Group Meeting Series (EuroTUG)](https://eurotug.github.io), in particular of these events:
+- 2022 European Trilinos User Group Meeting, Munich (virtual), Sept. 12 - 14, 2022
+
 ### Appointments to Scientific Committees
  
 I've been appointed to the Scientific Commitee of the following international conferences:
