@@ -144,6 +144,10 @@ Technical University of Munich,
 
 > This list only includes talks that I have given myself. Co-authored talks presented by collaborators are not listed here.
 
+1. Mayr M, Berger-Vergiat L, Ohm P, Tuminaro RS:
+**Using structured multigrid methods in unstructured FEM solvers**,
+_34th Chemnitz FE Symposium_,
+Herrsching am Ammersee, September 15 - 17, 2022
 1. Hagmeyer N, Mayr M, Popp A:
 **Two-way coupling of slender beams with incompressible fluid flow**,
 _9th GACM Colloqium on Computational Mechanics 2022_,
