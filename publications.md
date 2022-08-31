@@ -24,7 +24,7 @@ submitted for publication,
 **Non-invasive multigrid for semi-structured grids**,
 _SIAM Journal on Scientific Computing_,
 44(4):A2734--A2764, 2022,
-DOI](https://doi.org/10.1137/20M1375413),
+[DOI](https://doi.org/10.1137/20M1375413),
 [arXiv](https://arxiv.org/abs/2103.11962)
 1. N. Hagmeyer, M. Mayr, I. Steinbrecher, A. Popp:
 **One-way coupled fluid-beam interaction: Capturing the effect of embedded slender bodies on global fluid flow and vice versa**,
