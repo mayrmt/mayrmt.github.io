@@ -300,6 +300,10 @@ Hamburg-Harburg, Germany, September 30 - Oktober 2, 2013
 # Other Invited Presentations
 
 1. M. Mayr:
+**Algebraic multigrid block preconditioning for mixed-dimensional fiber/solid coupling**,
+_SIMULA Workshop on computational aspects of mixed-dimensional modeling_,
+Split, Croatia, October 5 - 7, 2022
+1. M. Mayr:
 **Iterative solvers and preconditioners for linear systems**,
 _IMCS Seminar_,
 Munich, Germany, May 21, 2021
