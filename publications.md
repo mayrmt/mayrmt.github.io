@@ -299,6 +299,10 @@ Hamburg-Harburg, Germany, September 30 - Oktober 2, 2013
 
 # Other Invited Presentations
 
+1. M. Firmbach, A. Popp, M. Mayr:
+**Sustainable development of multi-level block preconditioners in Trilinos/MueLu**,
+_hpw.bw Seminar Series "Computation & Data"_,
+Helmut-Schmidt-University Hamburg, Hamburg, Germany, November 9, 2022
 1. M. Mayr:
 **Algebraic multigrid block preconditioning for mixed-dimensional fiber/solid coupling**,
 _SIMULA Workshop on Computational Mechanics Models on Domains of Heterogeneous Dimensionality_,
