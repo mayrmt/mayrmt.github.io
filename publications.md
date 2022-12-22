@@ -11,15 +11,17 @@ For some publication statistics, please see my author profile on
 - [Orcid](https://orcid.org/0000-0002-2780-1233)
 - [Researchgate](https://www.researchgate.net/profile/Matthias_Mayr2)
 
+<!--
 # Preprints and Articles Submitted for Publication
-
-1. M. Mayr, A. Popp:
-**Scalable computational kernels for mortar finite element methods**,
-submitted for publication,
-[arXiv](http://arxiv.org/abs/2202.03933)
+-->
 
 # Articles in Peer-Reviewed International Journals
 
+1. M. Mayr, A. Popp:
+**Scalable computational kernels for mortar finite element methods**,
+_Engineering with Computers_,
+accepted for publication,
+[arXiv](http://arxiv.org/abs/2202.03933)
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Non-invasive multigrid for semi-structured grids**,
 _SIAM Journal on Scientific Computing_,
