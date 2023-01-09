@@ -76,6 +76,10 @@ _SIAM Journal on Scientific Computing_,
 
 # Conference Proceedings and Book Contributions (with Peer-Review)
 
+1. P. Neumann, J. A. Duffek, J. Kleinschmidt, W. G. Leinen, M. Breuer, S. Schmidt-Lauff, A. Fink, M. Mayr, M. Firmbach, A. Popp, A. Auwetter:
+**hpc.bw: A Supercomputer with Competence Platform for the Universities of the Federal Armed Forces**,
+In: _dtec.bw-Beiträge der Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg: Forschungsaktivitäten im Zentrum für Digitalisierungs- und Technologieforschung der Bundeswehr dtec.bw_,
+Volume 1, 2022, [DOI (Open Access)](https://doi.org/10.24405/14569)
 1. N. Hagmeyer, M. Mayr, A. Popp:
 **Fluid-structure interaction of slender continua with 3-dimensional flow: An embedded finite element approach**,
 In: _Proceedings in Applied Mathematics and Mechanics_,
