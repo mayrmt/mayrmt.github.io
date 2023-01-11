@@ -102,19 +102,19 @@ T. Gleim, S. Lange (Eds.), Kassel University Press, Germany, 2019
 In: _Proceedings of the 8th GACM Colloquium on Computational Mechanics_,
 T. Gleim, S. Lange (Eds.), Kassel University Press, Germany, 2019
 
-# Other Articles and Book Contributions
+# Other Articles, Reports and Book Contributions
 
 1. P. Neumann, J. A. Duffek, J. Kleinschmidt, W. G. Leinen, M. Breuer, S. Schmidt-Lauff, A. Fink, M. Mayr, M. Firmbach, A. Popp, A. Auwetter:
 **hpc.bw: A Supercomputer with Competence Platform for the Universities of the Federal Armed Forces**,
 In: _dtec.bw-Beiträge der Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg: Forschungsaktivitäten im Zentrum für Digitalisierungs- und Technologieforschung der Bundeswehr dtec.bw_,
 Volume 1, 2022, [DOI (Open Access)](https://doi.org/10.24405/14569)
-
-# Reports & White Papers
-
 1. L. Berger-Vergiat, C. A. Glusa, J. J. Hu, M. Mayr, A. Prokopenko, C. M. Siefert, R. S. Tuminaro, T. A. Wiesner:
 **[MueLu User's Guide](https://www.osti.gov/servlets/purl/1491860)**,
 _Technical Report_,
 Sandia National Laboratories, SAND2019-0537, 2019
+
+# Monographs
+
 1. M. Mayr:
 **[A Monolithic Solver for Fluid-Structure Interaction with Adaptive Time Stepping and a Hybrid Preconditioner](https://mediatum.ub.tum.de/603814?show_id=1315660)**,
 _PhD Thesis_,
