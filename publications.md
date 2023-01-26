@@ -20,7 +20,8 @@ For some publication statistics, please see my author profile on
 1. M. Mayr, A. Popp:
 **Scalable computational kernels for mortar finite element methods**,
 _Engineering with Computers_,
-accepted for publication,
+2023,
+[DOI (Open Access)](https://doi.org/10.1007/s00366-022-01779-3),
 [arXiv](http://arxiv.org/abs/2202.03933)
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Non-invasive multigrid for semi-structured grids**,
