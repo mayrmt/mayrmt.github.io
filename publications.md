@@ -127,6 +127,14 @@ Duke University & Technical University of Munich, 2010
 
 # Lecture Notes
 
+1. M. Mayr, M. Brünig:
+**Baumechanik 3 - Dynamics**,
+University of the Bundeswehr Munich,
+2023
+1. M. Mayr, G. Loera:
+**Nonlinear Finite Elements**,
+University of the Bundeswehr Munich,
+5th edition, 2023
 1. M. Mayr, M. von Danwitz:
 **Modelling of Uncertainty and Data**,
 University of the Bundeswehr Munich,
@@ -134,7 +142,7 @@ University of the Bundeswehr Munich,
 1. M. Mayr:
 **Introduction to Finite Element Methods (FEM)**,
 5th edition, 2022
-1. M. Mayr:
+1. M. Mayr, T. T. Kochmann:
 **Modelling of Uncertainty and Data**,
 University of the Bundeswehr Munich,
 2nd edition, 2021
@@ -159,6 +167,14 @@ Technical University of Munich,
 
 > This list only includes talks that I have given myself. Co-authored talks presented by collaborators are not listed here.
 
+1. Mayr M, Firmbach M, Popp A:
+**Salable block preconditioning for beam/solid coupling using Trilinos/MueLu**,
+_10th International Congress on Industrial and Applied Mathematics_,
+Tokyo, Japan, August 20 - 25, 2023
+1. Mayr M, Hagmeyer N, Popp A:
+**Two-way coupling in mixed-dimensional fluid/beam interaction**,
+_10th International Conference on Coupled Problems in Science and Engineering_,
+Chania/Crete, Greece, June 5 - 7, 2023
 1. Mayr M, Berger-Vergiat L, Ohm P, Tuminaro RS:
 **Using structured multigrid methods in unstructured FEM solvers**,
 _34th Chemnitz FE Symposium_,
@@ -173,7 +189,7 @@ _92nd Annual Meeting of the International Association of Applied Mathematics and
 Aachen, Germany, August 15 - 19, 2022
 1. Mayr M, Steimer C, Popp A:
 **Dynamic load balancing for contact mechanics at large scale**,
-_15th World Congress on Computational Mechanics (WCCM 2022)& 8th Asian Pacific Congress on Computational Mechanics (APCOM 2022)_,
+_15th World Congress on Computational Mechanics (WCCM 2022) & 8th Asian Pacific Congress on Computational Mechanics (APCOM 2022)_,
 Yokohama, Japan, July 31 - August 5, 2022
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
 **Reducing Communication in Algebraic Multigrid Methods for Partially Structured Grids**,
