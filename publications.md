@@ -113,6 +113,9 @@ Sandia National Laboratories, SAND2023-12265, 2023
 **hpc.bw: A Supercomputer with Competence Platform for the Universities of the Federal Armed Forces**,
 In: _dtec.bw-Beiträge der Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg: Forschungsaktivitäten im Zentrum für Digitalisierungs- und Technologieforschung der Bundeswehr dtec.bw_,
 Volume 1, 2022, [DOI (Open Access)](https://doi.org/10.24405/14569)
+1. M. Mayr, T. A. Wiesner, M. W. Gee, A. Prokopenko, J. J. Hu:
+**[The MueLu Tutorial](https://muelu-tutorial.readthedocs.io/)**,
+2022
 1. L. Berger-Vergiat, C. A. Glusa, J. J. Hu, M. Mayr, A. Prokopenko, C. M. Siefert, R. S. Tuminaro, T. A. Wiesner:
 **[MueLu User's Guide](https://www.osti.gov/servlets/purl/1491860)**,
 _Technical Report_,
