@@ -243,35 +243,10 @@ Valencia, Spain, July 15 - 19, 2019
 _8th International Conference on Coupled Problems in Science and Engineering_,
 Sitges/Barcelona, Spain, June 3 - 5, 2019
 (Invited Presentation)
-1. R. S. Tuminaro, L. Berger-Vergiat, M. Mayr, Peter Ohm:
-**A Multigrid Method Tailored to Semi-structured Grids**,
-_19th Copper Mountain Conference On Multigrid Methods_,
-Copper Mountain, CO, March 24 - 28, 2019
-(Contributed Presentation)
 1. M. Mayr, M. Lupo Pasini, L. Berger-Vergiat, R. S. Tuminaro:
 **A non-invasive matrix-based multigrid scheme for partially structured grids**,
 _15th Copper Mountain Conference On Iterative Methods_,
 Copper Mountain, CO, March 25 - 30, 2018
-(Invited Presentation)
-1. R. S. Tuminaro, L. Berger-Vergiat, M. Mayr:
-**Leveraging Application Structure Within Next Generation Multigrid Solvers**,
-_18th SIAM Conference on Parallel Processing for Scientific Computing_,
-Tokyo, Japan, March 7 - 10, 2018
-(Contributed Presentation)
-1. M. H. Noll, M. Mayr, M. W. Gee:
-**Hybrid Additive/Multiplicative Schwarz Preconditioning for Monolithic Solvers for Surface-Coupled Multi-Physics Problems**,
-_7th GACM Colloquium on Computational Mechanics_,
-Stuttgart, Germany, October 11 - 13, 2017
-(Contributed Presentation)
-1. M. Mayr, M. H. Noll, M. W. Gee:
-**A Novel Hybrid Additive/Multiplicative Schwarz Preconditioner for Monolithic Solvers of Surface-Coupled Multiphysics Problems**,
-_14th U.S. National Congress on Computational Mechanics_,
-Montreal, Canada, July 17 - 20, 2017
-(Invited Presentation)
-1. M. P. Thon, M. W. Gee, A. Hemmler, M. Mayr:
-**A Multiphysics Approach for Early Atherosclerosis Progression**,
-_Platform for Advanced Scientific Computing (PASC17)_,
-Lugano, Switzerland, June 26 - 28, 2017
 (Invited Presentation)
 1. M. Mayr, E. C. Cyr, J. N. Shadid, R. P. Pawlowski, T. M. Wildey, G. Scovazzi, X. Zeng, E. G. Phillips, S. Conde:
 **Implicit-Explicit (IMEX) Time Integration for Multi-Physics: Application to ALE-based CFD Simulations**,
