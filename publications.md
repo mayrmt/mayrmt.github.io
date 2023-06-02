@@ -174,10 +174,6 @@ Technical University of Munich,
 
 > This list only includes talks that I have given myself. Co-authored talks presented by collaborators are not listed here.
 
-1. Mayr M, Firmbach M, Popp A:
-**Salable block preconditioning for beam/solid coupling using Trilinos/MueLu**,
-_10th International Congress on Industrial and Applied Mathematics_,
-Tokyo, Japan, August 20 - 25, 2023
 1. Mayr M, Hagmeyer N, Popp A:
 **Two-way coupling in mixed-dimensional fluid/beam interaction**,
 _10th International Conference on Coupled Problems in Science and Engineering_,
