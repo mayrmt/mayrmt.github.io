@@ -11,9 +11,12 @@ For some publication statistics, please see my author profile on
 - [Orcid](https://orcid.org/0000-0002-2780-1233)
 - [Researchgate](https://www.researchgate.net/profile/Matthias_Mayr2)
 
-<!--
 # Preprints and Articles Submitted for Publication
--->
+
+1. N. Hagmeyer, M. Mayr, A. Popp:
+**Fully coupled mortar-type embedding of one-dimensional fibers into three-dimensional fluid flow**,
+_submitted for publication_,
+2023
 
 # Articles in Peer-Reviewed International Journals
 
