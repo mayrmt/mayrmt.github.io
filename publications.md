@@ -84,7 +84,8 @@ _SIAM Journal on Scientific Computing_,
 1. M. Firmbach, I. Steinbrecher, A. Popp, M. Mayr:
 **Computational challenges in mixed-dimensional beam/solid coupling**,
 In: _Proceedings in Applied Mathematics and Mechanics_,
-23(1):e202200227, 2023
+23(1):e202200227, 2023,
+[DOI (Open Access)](https://doi.org/10.1002/pamm.202200227)
 1. N. Hagmeyer, M. Mayr, A. Popp:
 **Fluid-structure interaction of slender continua with 3-dimensional flow: An embedded finite element approach**,
 In: _Proceedings in Applied Mathematics and Mechanics_,
