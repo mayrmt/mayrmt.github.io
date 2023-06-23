@@ -10,6 +10,7 @@ I'm happy to regularly serve as a reviewer for the following international journ
 
 - [Archive of Applied Mechanics](https://www.springer.com/journal/419)
 - [Computational Mechanics](https://www.springer.com/journal/466)
+- [Engineering with Computers](https://www.springer.com/journal/366)
 - [Fluids](https://www.mdpi.com/journal/fluids)
 - [International Journal for Numerical Methods in Biomedical Engineering](https://onlinelibrary.wiley.com/journal/20407947)
 - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
