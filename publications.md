@@ -312,6 +312,10 @@ Hamburg-Harburg, Germany, September 30 - Oktober 2, 2013
 
 # Other Invited Presentations
 
+1. R. Shaw, I. Steinbrecher, M. Mayr, A. Popp:
+**A coupled FEM/BEM solver for contact of rough surfaces**,
+_2nd GACM/GIMC Workshop on Common Research Interests in Computational Mechanics_,
+RWTH Aachen, Aachen, Germany, Sept 14 - 15, 2023
 1. M. Firmbach, A. Popp, M. Mayr:
 **Sustainable development of multi-level block preconditioners in Trilinos/MueLu**,
 _hpc.bw Seminar Series "Computation & Data"_,
