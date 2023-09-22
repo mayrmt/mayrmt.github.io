@@ -81,6 +81,11 @@ _SIAM Journal on Scientific Computing_,
 
 # Conference Proceedings and Book Contributions (with Peer-Review)
 
+1. C. Steimer, M. Mayr, A. Popp:
+**Targeting a faster time-to-solution of mortar based contact problems**,
+In: _Proceedings in Applied Mathematics and Mechanics_,
+e202300157, 2023,
+[DOI (Open Access)](https://doi.org/10.1002/pamm.202300157)
 1. M. Firmbach, I. Steinbrecher, A. Popp, M. Mayr:
 **Computational challenges in mixed-dimensional beam/solid coupling**,
 In: _Proceedings in Applied Mathematics and Mechanics_,
