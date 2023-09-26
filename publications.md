@@ -24,7 +24,7 @@ _submitted for publication_,
 1. M. Mayr, A. Popp:
 **Scalable computational kernels for mortar finite element methods**,
 _Engineering with Computers_,
-2023,
+39:3691--3720, 2023,
 [DOI (Open Access)](https://doi.org/10.1007/s00366-022-01779-3),
 [arXiv](http://arxiv.org/abs/2202.03933)
 1. M. Mayr, L. Berger-Vergiat, P. Ohm, R. S. Tuminaro:
