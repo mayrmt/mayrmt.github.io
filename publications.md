@@ -15,8 +15,9 @@ For some publication statistics, please see my author profile on
 
 1. N. Hagmeyer, M. Mayr, A. Popp:
 **Fully coupled mortar-type embedding of one-dimensional fibers into three-dimensional fluid flow**,
-_submitted for publication_,
-2023,
+_International Journal for Numerical Methods in Engineering_,
+accepted for publication,
+2024,
 [arXiv](http://arxiv.org/abs/2306.02456)
 
 # Articles in Peer-Reviewed International Journals
