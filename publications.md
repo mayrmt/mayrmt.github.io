@@ -22,7 +22,7 @@ For some publication statistics, please see my author profile on
 _International Journal for Numerical Methods in Engineering_,
 published online ahead of print,
 e7435, 2024,
-[DOI](http://doi.org/10.1002/nme.7435),
+[DOI (Open Access)](http://doi.org/10.1002/nme.7435),
 [arXiv](http://arxiv.org/abs/2306.02456)
 1. M. Mayr, A. Popp:
 **Scalable computational kernels for mortar finite element methods**,
