@@ -13,14 +13,17 @@ For some publication statistics, please see my author profile on
 
 # Preprints and Articles Submitted for Publication
 
-1. N. Hagmeyer, M. Mayr, A. Popp:
-**Fully coupled mortar-type embedding of one-dimensional fibers into three-dimensional fluid flow**,
-_International Journal for Numerical Methods in Engineering_,
-accepted for publication,
-2024,
-[arXiv](http://arxiv.org/abs/2306.02456)
+(None.)
 
 # Articles in Peer-Reviewed International Journals
+
+1. N. Hagmeyer, M. Mayr, A. Popp:
+**A fully coupled regularized mortar-type finite element approach for embedding one-dimensional fibers into three-dimensional fluid flow**,
+_International Journal for Numerical Methods in Engineering_,
+published online ahead of print,
+e7435, 2024,
+[DOI](http://doi.org/10.1002/nme.7435),
+[arXiv](http://arxiv.org/abs/2306.02456)
 
 1. M. Mayr, A. Popp:
 **Scalable computational kernels for mortar finite element methods**,
