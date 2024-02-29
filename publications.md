@@ -13,7 +13,11 @@ For some publication statistics, please see my author profile on
 
 # Preprints and Articles Submitted for Publication
 
-(Coming soon.)
+1. M. Firmbach, I. Steinbrecher, A. Popp, M. Mayr:
+**Physics-based block preconditioning for mixed-dimensional beam-solid interaction**,
+_submitted for publication_,
+2024,
+[arXiv](http://arxiv.org/abs/2402.18414)
 
 # Articles in Peer-Reviewed International Journals
 
