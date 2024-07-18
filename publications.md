@@ -21,6 +21,12 @@ _submitted for publication_,
 
 # Articles in Peer-Reviewed International Journals
 
+1. M. Frank, F. Holzberger, M. Horvat, J. Kirschke, M. Mayr, M. Muhr, N. Nebulishvili, A. Popp, J. Schwarting, B. Wohlmuth:
+**Numerical simulation of endovascular treatment options for cerebral aneurysms**,
+_GAMM Mitteilungen_,
+published online ahdead of print, e202370007, 2024,
+[DOI (Open Access)](https://doi.org/10.1002/gamm.202370007),
+[arXiv](https://arxiv.org/abs/2402.00550)
 1. N. Hagmeyer, M. Mayr, A. Popp:
 **A fully coupled regularized mortar-type finite element approach for embedding one-dimensional fibers into three-dimensional fluid flow**,
 _International Journal for Numerical Methods in Engineering_,
