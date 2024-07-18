@@ -26,7 +26,7 @@ _submitted for publication_,
 _GAMM-Mitteilungen_,
 published online ahdead of print, e202370007, 2024,
 [DOI (Open Access)](https://doi.org/10.1002/gamm.202370007),
-[arXiv](https://arxiv.org/abs/2402.00550)
+[arXiv](https://doi.org/10.48550/arXiv.2402.00550)
 1. N. Hagmeyer, M. Mayr, A. Popp:
 **A fully coupled regularized mortar-type finite element approach for embedding one-dimensional fibers into three-dimensional fluid flow**,
 _International Journal for Numerical Methods in Engineering_,
