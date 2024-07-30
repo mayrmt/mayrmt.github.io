@@ -11,16 +11,18 @@ For some publication statistics, please see my author profile on
 - [Orcid](https://orcid.org/0000-0002-2780-1233)
 - [Researchgate](https://www.researchgate.net/profile/Matthias_Mayr2)
 
+<!--
 # Preprints and Articles Submitted for Publication
-
-1. M. Firmbach, I. Steinbrecher, A. Popp, M. Mayr:
-**Physics-based block preconditioning for mixed-dimensional beam-solid interaction**,
-_submitted for publication_,
-2024,
-[arXiv](http://arxiv.org/abs/2402.18414)
+-->
 
 # Articles in Peer-Reviewed International Journals
 
+1. M. Firmbach, I. Steinbrecher, A. Popp, M. Mayr:
+**An approximate block factorization preconditioner for mixed-dimensional beam-solid interaction**,
+_Computer Methods in Applied Mechanics and Engineering_,
+431:117256, 2024,
+[DOI (Open Access)](https://doi.org/10.1016/j.cma.2024.117256),
+[arXiv](http://arxiv.org/abs/2402.18414)
 1. M. Frank, F. Holzberger, M. Horvat, J. Kirschke, M. Mayr, M. Muhr, N. Nebulishvili, A. Popp, J. Schwarting, B. Wohlmuth:
 **Numerical simulation of endovascular treatment options for cerebral aneurysms**,
 _GAMM-Mitteilungen_,
