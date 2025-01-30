@@ -129,6 +129,10 @@ T. Gleim, S. Lange (Eds.), Kassel University Press, Germany, 2019
 
 # Other Articles, Reports and Book Contributions
 
+1. J. A. Duffek, I. Bechelaoui, W. G. Leinen, H. Preuss, S. Schluhmbohn, Y. Schumann, F. Dethoff, S. Kessler, M. Rathmann, J. Kleinschmidt, A. Kolling, S. Schmidt-Lauff, M. Stiemer, M. Mayr, P. Neumann:
+**hpc.bw: an evaluation of short-term performance engineering projects**,
+In: _dtec.bw-Beiträge der Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg: Forschungsaktivitäten im Zentrum für Digitalisierungs- und Technologieforschung der Bundeswehr dtec.bw_,
+2:223-228, 2024, [DOI (Open Access)](https://doi.org/10.24405/16802)
 1. L. Berger-Vergiat, C. A. Glusa, G. Harper, J. J. Hu, M. Mayr, A. Prokopenko, C. M. Siefert, R. S. Tuminaro, T. A. Wiesner:
 **[MueLu User's Guide](https://trilinos.github.io/pdfs/mueluguide.pdf)**,
 _Technical Report_,
@@ -136,7 +140,7 @@ Sandia National Laboratories, SAND2023-12265, 2023
 1. P. Neumann, J. A. Duffek, J. Kleinschmidt, W. G. Leinen, M. Breuer, S. Schmidt-Lauff, A. Fink, M. Mayr, M. Firmbach, A. Popp, A. Auwetter:
 **hpc.bw: A Supercomputer with Competence Platform for the Universities of the Federal Armed Forces**,
 In: _dtec.bw-Beiträge der Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg: Forschungsaktivitäten im Zentrum für Digitalisierungs- und Technologieforschung der Bundeswehr dtec.bw_,
-Volume 1, 2022, [DOI (Open Access)](https://doi.org/10.24405/14569)
+1:305-310, 2022, [DOI (Open Access)](https://doi.org/10.24405/14569)
 1. M. Mayr, T. A. Wiesner, M. W. Gee, A. Prokopenko, J. J. Hu:
 **[The MueLu Tutorial](https://muelu-tutorial.readthedocs.io/)**,
 2022
