@@ -14,6 +14,7 @@ I'm happy to regularly serve as a reviewer for the following international journ
 #- [Fluids](https://www.mdpi.com/journal/fluids)
 - [International Journal for Numerical Methods in Biomedical Engineering](https://onlinelibrary.wiley.com/journal/20407947)
 - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
+- [Journal of Computational Design and Engineering](https://academic.oup.com/jcde)
 - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics/)
 - [Springer Nature Applied Sciences](https://www.springer.com/journal/42452)
 - [The Journal of Open Source Software](https://joss.theoj.org)
